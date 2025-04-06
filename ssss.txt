@@ -1,0 +1,51 @@
+Ria Rao
+Pune,Maharashtra
+Ó +91-7499741749 R riarao4113@gmail.com ° www.linkedin.com/in/riarao
+EDUCATION
+B.E - Computer Engineering 2021 – 2025
+Aissms Coe, Pune - SGPA - 8.86 Pune, Maharashtra
+Higher Secondary 2021
+Amrita Vidyalayam Junior College, Pune - 12 th Percentage - 91.33 Pune, Maharashtra
+Secondary School 2019
+Amrita Vidyalayam, Pune - 10 th Percentage - 93.60 Pune, Maharashtra
+TECHNICAL SKILLS
+• Python
+• Java
+• Machine Learning
+• Deep Learning
+• Data Science
+• Artificial Intelligence
+• HTML
+• CSS
+• SQL
+• Reactjs
+• Javascript
+WORK HISTORY
+Software Developer Intern 23 Dec 2023 - Present
+Cybernetics Software Pvt.Ltd Pune, Maharashtra
+• Currently working as a Software Developer Intern, focusing on front-end development using React.js, Redux,
+and related technologies. Responsible for building and optimizing user interfaces, managing application state,
+and collaborating with the development team to enhance web applications. Gaining hands-on experience in
+modern front-end frameworks, component-based architecture, and performance optimization
+Software Developer Intern 18 Dec 2023 - 24 Jan 2024
+Sumago Infotech Pvt.Ltd Pune, Maharashtra
+• Completed an internship at Sumago Infotech Pvt. Ltd. focusing on executing Python programs and
+contributing to various machine learning projects. Gained hands-on experience in web development using
+HTML and CSS, while applying expertise in the Python programming language for a wide range of tasks.
+PROJECTS
+Image Classification System 2024
+• Designed and developed an image classification model using the CIFAR-10 dataset which used convolutional
+neural networks (CNNs) to achieve high accuracy in classifying these images.
+Rainfall Prediction System 2024
+• Developed an advanced rainfall prediction model using the Random Forest algorithm, processing historical
+weather data to achieve a 85 percent accuracy in predicting rainfall patterns.
+CERTIFICATIONS
+• The Data Science Course: Complete Data Science Bootcamp 2024 - 365 Careers
+• Artificial Intelligence Fundamentals - IBM SkillsBuild
+• Learn MySQL For Beginners - YouAccel Training
+• Core Java - Computech Explorer
+CO-CURRICULAR
+• Co-head of Engineering Today College Tech Event at AISSMS COE
+• Member of Media and Magazine Student Committee of AISSMS COE
+HOBBIES
+• Drawing and Painting - Achieved A-grade in both elementary and intermediate examinations.
